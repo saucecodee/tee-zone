@@ -1,0 +1,23 @@
+.maq-tit
+	{
+		border: 2px #f13622 solid; 
+		padding: 4px 4px 4px 10px; 
+		background-color: #f13622; 
+		color: white;
+	}
+	
+.side-art
+	{
+		border: 1px #ecf0f1 solid; 
+		margin: 0px 0px 10px 0px; 
+		padding: 0px; 
+		background-color:#ecf0f1
+	}
+	
+.main-art
+	{
+		border: 1px #ecf0f1 solid; 
+		margin: 0px 0px 10px 0px; 
+		padding: 0px; 
+		background-color:#ecf0f1
+	}	

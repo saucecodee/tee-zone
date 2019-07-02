@@ -1,0 +1,81 @@
+.login
+{
+	width: 550px;
+	height: 100px;
+	margin: 50px auto;
+	padding:25px;
+	color: blue;
+	border: 2px blue solid;
+	border-radius: 10px;
+}
+
+.Register
+{
+	width: 86%;
+	height: 65%;
+	margin: 80px auto;
+	padding:30px;
+	color: blue;
+	border: 2px blue solid;
+	border-radius: 10px;
+}
+
+.contact-form-widget 
+{
+	margin-left:0; 
+	margin-right:auto; 
+	width: 600px; 
+	max-width: 100%; 
+	padding: 0px; 
+	color: #000;
+}
+
+.new-name, .new-email 
+{
+	float:left; 
+	padding:5px; 
+	width:260px;
+}
+
+.new-message 
+{
+	padding:5px;
+}
+.contact-form-name, .contact-form-email 
+{
+	width: 100%;
+	max-width: 100%; 
+	margin-bottom: 10px; 
+	height:40px; 
+	padding:10px; 
+	font-size:16px;
+}
+
+.contact-form-email-message 
+{
+	width:100%; 
+	max-width: 100%; 
+	height:100px; 
+	margin-bottom:10px; 
+	padding:10px; 
+	font-size:16px; 
+}
+
+.contact-form-button-submit 
+{
+	border-color: #C1C1C1; 
+	background: #E3E3E3; 
+	color: #585858; 
+	cursor:pointer; 
+	width: 120px; 
+	margin-bottom: 10px; 
+	height:30px; 
+	font-size:16px; 
+}
+
+.contact-form-button-submit:hover
+{
+	background: #eee; 
+	color: #000000; 
+	border: 1px solid #ccc; 
+}
